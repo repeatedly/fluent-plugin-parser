@@ -1,6 +1,6 @@
 # fluent-plugin-parser
 
-**NOTE: This plugin is outdated for Fluentd v0.14 (Fluentd v0.14 has 'parser' filter plugin)**
+**NOTE: This plugin is outdated for Fluentd v0.14 (Fluentd v0.14 has 'parser' filter plugin). Don't install this plugin in v0.14 environment. This plugin requires v0.12 configuration and it causes a trouble with v0.14 configuration**
 
 ## Component
 
